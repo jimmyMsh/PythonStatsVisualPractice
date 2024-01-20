@@ -1,0 +1,16 @@
+#venv file
+data_science_learning/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Editor directories and files
+.vscode/
+*.swp
+*~
+
+#Mac files
+.DS_Store
