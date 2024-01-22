@@ -1,5 +1,3 @@
-# GitHub Repository Description
-
 **Project Title: Data-Driven Automobile Marketing Analysis Dashboard**
 
 This project intends to be an interactive, data-based automobile marketing analysis dashboard. Using Python, the Dash library, and Plotly, this data visualization tool provides visually presented information on automotive sales trends, advertising expenditure, and their relation to economic factors such as recession or unemployment rates. 
